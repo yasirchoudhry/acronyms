@@ -96,6 +96,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CDD | Criminal Defence Direct | | Telephone adviser run by a few provides. New tendering process will be started and new structure and providers will be in place in April 2016. |
 | CDE | Common Data Extract | | A report of all offenders in NOMIS with lots of data about them. Also known as ‘offloc’ (offender location report). The CDE is used to transfer offender data to other NOMS/MOJ systems (like Mercury) and to other agencies (like the police). |
 | CDO | Chief Digital Officer | | |
+| CDO | Court Duty Officer | | Includes PSOs (probation service officers) and POs |
 | CDT | Central Drafting Team | | In referance to ministerial corrospondence |
 | CEMLI | Configuration, Extension, Modification, Localisation and Integration | | |
 | CEO | Court enforcement officer | | |
@@ -473,6 +474,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | PSO | Probation Service Officer | | |
 | PSP | Public Sector Prisons | | |
 | PSP | Public Social Partnership | | |
+| PSR | Pre Sentence Report | | |
 | PSU | Personal Support Unit | https://en.wikipedia.org/wiki/Personal_Support_Unit | |
 | PTTP | Prison Technology Transformation Programme | | Laptops, mobile devices, applications, etc. for the whole of HMPPS. Replacement for Quantum. Programme commenced 2020. |
 | PUM | Portal User Management | | Use by LAA Online support team to reset users passwords, unlock their accounts and assign CCLF roles to users. |
